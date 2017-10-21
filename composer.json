@@ -1,0 +1,13 @@
+{
+    "name": "vivek/php-desktop-notification",
+    "description": "desktop notification",
+    "authors": [
+        {
+            "name": "Vivek Dhumal",
+            "email": "vivekdhumalmail@gmail.com"
+        }
+    ],
+    "require": {
+        "jolicode/jolinotif": "^1.2"
+    }
+}
